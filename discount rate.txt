@@ -1,0 +1,10 @@
+print("Hello customer, Let us figure out closing price after the discount")
+a=input("Enter the cost:")
+f=int(a)
+result=0.8*f
+print("The closing amount after discount is:",result)
+
+Output:
+Hello customer, Let us figure out closing price after the discount
+Enter the cost: 1911
+The closing amount after discount is: 1528.8
